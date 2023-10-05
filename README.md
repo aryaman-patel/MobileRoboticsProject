@@ -1,6 +1,6 @@
-# Occumapancy Grids from laser scans. 
+# Occupancy Grids from laser scans. 
 
-This is a ROS package for creating a simple Occumapancy Grid map from ``/scan`` data.
+This is a ROS package for creating a simple Occupancy Grid map from ``/scan`` data.
 
 
 
